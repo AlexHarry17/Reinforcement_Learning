@@ -1,0 +1,1 @@
+This is a directory for the [reinforcement learning course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) by simoninithomas.
